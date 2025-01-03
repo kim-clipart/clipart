@@ -478,7 +478,7 @@
       </div>
     </div>
     <div class="covid">
-      <h2>Covid-19</h2>
+      <!-- <h2>Covid-19</h2> -->
       <div>
         <p>
           På clip.art följer vi alla rekommendationer från Folkhälsomyndigheten
